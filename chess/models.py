@@ -14,3 +14,10 @@ class Choice(models.Model):
 
 class Board(models.Model):
     space = models.ImageField()
+
+
+class Game(models.Model):
+
+    #current_turn = models.ForeignKey(User, related_name='current_turn')
+    cols = models.IntegerField(default=8)
+    rows = models.IntegerField(default=8)
