@@ -1,6 +1,6 @@
 <h1 align="center"> Django Chess </h1>
 
-<h4 align="center"> simple django chess website </h4>
+<h4 align="center"> simple django app with a chess plugin </h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-v3.6+-blue.svg">
@@ -17,6 +17,10 @@
 
 ## About:
 - overview of the algorithm and its implementation 
+
+<p align="center">
+  <img src="https://github.com/Gregory-Eales/Django-Chess/blob/master/images/chess.png">
+</p>
 
 ## Requirements:
 - include required libraries and versions
