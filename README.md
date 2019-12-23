@@ -11,22 +11,20 @@
 
 <p align="center">
   <a href="#About">About</a> •
-  <a href="#Requirements">Requirements</a> •
   <a href="#Sources">Sources</a>
 </p>
 
 ## About:
-- overview of the algorithm and its implementation 
+This is a simple django web app with a chess plugin
 
 <p align="center">
   <img src="https://github.com/Gregory-Eales/Django-Chess/blob/master/images/chess.png">
 </p>
 
-## Requirements:
-- include required libraries and versions
 
 ## Sources:
-- show sources
+- CSS + HTML Templates: https://www.w3schools.com/w3css/w3css_templates.asp
+- Chess Web Plugin: https://fritz.chessbase.com/?lang=en 
 
 ## Meta:
 
